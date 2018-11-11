@@ -1,0 +1,22 @@
+/*
+* Copyright © 2018 Slooh, LLC. All rights reserved
+* This FITS data has been rendered by the Slooh organization.
+* For more info about Slooh, visit: https://www.slooh.com/about/mission
+*/
+{
+	"name":"Baalateja Kataru",
+	"observation_date": "26-10-2018",
+	"observation_object": "Theta Aurigae"
+	"object_properties": {
+		"distance": "166ly",
+		"constellation": "Auriga",
+		"right_ascension": "05h 59m 43.27012s",
+		"declination": "+37° 12' 45.3047",
+		"abs_mag": -1.05
+	}
+	"observation_data": {
+		"apparent_magnitude":3.6799583,
+		"luminosity": "1.00638E+29
+	}
+}
+
